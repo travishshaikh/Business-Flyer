@@ -1,0 +1,198 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+    font-family: 'Oswald', sans-serif;
+}
+
+.section1{
+    text-transform: uppercase;
+ 
+}
+.title{
+    
+    color: #042f66;
+    font-weight: bolder;
+}
+.heading{
+  
+    font-size: 90px;
+    color: #005272;
+    font-weight: bolder; 
+    letter-spacing: 10px;
+    line-height: 100px;
+    overflow: hidden;
+    white-space: normal;
+}
+
+
+
+
+/* section2 star */
+.section2{
+    overflow: hidden;
+
+  
+   
+}
+.title1{
+    font-size: 29px;
+    font-weight: bolder;
+    overflow: hidden;
+    white-space: normal;
+
+    
+}
+.info{
+    font-size: 15px;
+    overflow: hidden;
+    white-space: normal;
+  
+    width:70%;
+
+
+}
+
+.paddingall{
+    padding:0px 30px 0px 30px;
+    color: white;
+    white-space: normal;
+    overflow: hidden;
+}
+
+
+.div1{
+    background: #0079A0;
+    box-shadow: 0px 20px 5px #0079A0;
+  
+}
+.div2{
+    background:#00638C;
+    box-shadow: 0px 20px 5px #00638C;
+    
+}
+.div3{
+    background: #00557A;
+    box-shadow: 0px 20px 5px #00557A;
+  
+}
+.div1,.div2,.div3{
+    text-align: center;
+    width: auto;
+    height: max-content; 
+    
+}
+h2{
+    font-style: italic;
+    margin-bottom: 10px;
+}
+i{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+/* section2 end */
+
+
+
+/* section3 star */
+
+.section3{
+ 
+    overflow: hidden;
+   
+}
+.colorwhite{
+    color: white;
+}
+.title1{
+    color: #004B6C;
+
+}
+
+
+
+.div11,.div22,.div33,.div44{
+    width: 200px;
+    height: 230px;
+   margin-bottom: 20px;
+
+   
+    margin-right: 10px;
+ overflow: hidden;
+ white-space: normal;
+
+    
+}
+.title4{
+    text-transform: uppercase;
+    color: #4D859C;
+}
+
+
+/* section3 end */
+
+footer{
+
+    background: #005272;
+    margin-top: 20px;
+}
+footer span{
+    color: white;
+}
+.number{
+    margin-right: 20px;
+}
+.fa-circle{
+   font-size: 12px;
+    color: #4CC0F1;
+    margin-right: 10px;
+}
+
+
+@media screen and (max-width: 780px) {
+    
+
+  
+        .heading{
+           
+            font-size: 50px;
+            color: #005272;
+            font-weight: bolder; 
+            letter-spacing: 5px;
+            line-height: 50px;
+           
+        }
+        .number{
+
+            display: block;
+          
+        }
+        .fix{
+            margin-left: 0px;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
